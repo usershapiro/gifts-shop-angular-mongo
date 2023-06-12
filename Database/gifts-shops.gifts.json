@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "6485be390920706450ad3089"
+  },
+  "giftName": "pen",
+  "description": "the best pen ever!",
+  "price": 34,
+  "discount": 5
+},
+{
+  "_id": {
+    "$oid": "648628b080aa46c969705c5a"
+  },
+  "giftName": "perfume",
+  "description": "channel perfume",
+  "price": 260,
+  "discount": 10
+},
+{
+  "_id": {
+    "$oid": "6487771a20ed2fd838adeba3"
+  },
+  "targetId": {
+    "$oid": "64824238d174c7adb55747ba"
+  },
+  "giftName": "ggggggggg",
+  "description": "kkkkkkkkkk",
+  "price": 34,
+  "discount": 24
+},
+{
+  "_id": {
+    "$oid": "648787fc20ed2fd838adec8e"
+  },
+  "targetId": {
+    "$oid": "64823a5d24379b65c03aeb3b"
+  },
+  "giftName": "faigy",
+  "description": "shapiro",
+  "price": 54,
+  "discount": 56
+},
+{
+  "_id": {
+    "$oid": "6487885020ed2fd838adec96"
+  },
+  "targetId": {
+    "$oid": "64823a5d24379b65c03aeb3b"
+  },
+  "giftName": "faigy",
+  "description": "shapiro",
+  "price": 333,
+  "discount": 333
+}]

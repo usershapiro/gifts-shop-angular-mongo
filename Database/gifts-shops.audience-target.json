@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "64823a5d24379b65c03aeb3b"
+  },
+  "type": "babies"
+},
+{
+  "_id": {
+    "$oid": "64824238d174c7adb55747ba"
+  },
+  "type": "children"
+},
+{
+  "_id": {
+    "$oid": "6484ff47c32d6eeb4f819445"
+  },
+  "type": "teens"
+},
+{
+  "_id": {
+    "$oid": "6484ff69c32d6eeb4f819446"
+  },
+  "type": "adults"
+}]
