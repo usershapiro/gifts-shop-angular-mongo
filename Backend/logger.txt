@@ -1,0 +1,112 @@
+9.6.2023, 0:19:40 	 Route /api/gifts-per-target-audience/3 not exist
+----------------------------
+9.6.2023, 0:34:51 	 GiftsModel validation failed: giftName: Missing giftName, type: Missing type
+----------------------------
+9.6.2023, 0:35:21 	 GiftsModel validation failed: giftName: Missing giftName, type: Missing type
+----------------------------
+9.6.2023, 0:38:01 	 GiftsModel validation failed: type: Missing type
+----------------------------
+9.6.2023, 0:39:56 	 Route /api/gifts/64824a436e5741d532d3b9d4 not exist
+----------------------------
+9.6.2023, 0:40:19 	 Cannot populate path `targets` because it is not in your schema. Set the `strictPopulate` option to false to override.
+----------------------------
+9.6.2023, 0:49:23 	 Cannot populate path `targets` because it is not in your schema. Set the `strictPopulate` option to false to override.
+----------------------------
+9.6.2023, 0:49:41 	 Cannot populate path `targets` because it is not in your schema. Set the `strictPopulate` option to false to override.
+----------------------------
+9.6.2023, 0:49:51 	 Cannot populate path `targets` because it is not in your schema. Set the `strictPopulate` option to false to override.
+----------------------------
+9.6.2023, 0:50:53 	 Route /api/gifts/64824a436e5741d532d3b9d4 not exist
+----------------------------
+9.6.2023, 1:57:23 	 Route /api/gifts/6 not exist
+----------------------------
+9.6.2023, 1:57:37 	 GiftsModel validation failed: type: Missing type
+----------------------------
+9.6.2023, 1:57:39 	 GiftsModel validation failed: type: Missing type
+----------------------------
+9.6.2023, 1:58:03 	 GiftsModel validation failed: type: Missing type
+----------------------------
+9.6.2023, 1:58:04 	 GiftsModel validation failed: type: Missing type
+----------------------------
+9.6.2023, 1:58:13 	 E11000 duplicate key error collection: gifts-shops.gifts index: _id_ dup key: { _id: ObjectId('64824c27d174c7adb55747bc') }
+----------------------------
+9.6.2023, 2:19:22 	 Cast to ObjectId failed for value ":_id\n" (type string) at path "_id" for model "GiftsModel"
+----------------------------
+9.6.2023, 2:20:56 	 Cast to ObjectId failed for value "64825d18407499883504129e\n" (type string) at path "_id" for model "GiftsModel"
+----------------------------
+9.6.2023, 2:21:07 	 Cast to ObjectId failed for value "64825d18407499883504129e\n" (type string) at path "_id" for model "GiftsModel"
+----------------------------
+9.6.2023, 2:21:18 	 Cast to ObjectId failed for value "64825d18407499883504129e\n" (type string) at path "_id" for model "GiftsModel"
+----------------------------
+9.6.2023, 2:22:07 	 Cast to ObjectId failed for value "64824c27d174c7adb55747bc\n" (type string) at path "_id" for model "GiftsModel"
+----------------------------
+11.6.2023, 1:06:10 	 Cast to ObjectId failed for value "64824c27d174c7adb55747bc\n" (type string) at path "_id" for model "GiftsModel"
+----------------------------
+11.6.2023, 1:06:52 	 Cast to ObjectId failed for value " 64825ed28a3406882a4e6183\n\n" (type string) at path "_id" for model "GiftsModel"
+----------------------------
+11.6.2023, 1:06:57 	 Cast to ObjectId failed for value " 64825ed28a3406882a4e6183\n\n" (type string) at path "_id" for model "GiftsModel"
+----------------------------
+11.6.2023, 1:06:59 	 Cast to ObjectId failed for value " 64825ed28a3406882a4e6183\n\n" (type string) at path "_id" for model "GiftsModel"
+----------------------------
+11.6.2023, 1:07:05 	 Cast to ObjectId failed for value " 64825ed28a3406882a4e6183" (type string) at path "_id" for model "GiftsModel"
+----------------------------
+11.6.2023, 1:07:11 	 Cast to ObjectId failed for value " 64825ed28a3406882a4e6183" (type string) at path "_id" for model "GiftsModel"
+----------------------------
+11.6.2023, 1:07:18 	 _id 64825ed28a3406882a4e6183 not exist
+----------------------------
+11.6.2023, 1:07:21 	 _id 64825ed28a3406882a4e6183 not exist
+----------------------------
+11.6.2023, 1:07:44 	 _id 64825ed28a3406882a4e6183 not exist
+----------------------------
+11.6.2023, 1:07:48 	 _id 64825ed28a3406882a4e6183 not exist
+----------------------------
+12.6.2023, 21:46:55 	 _id 6487667820ed2fd838adeaad not exist
+----------------------------
+12.6.2023, 21:49:28 	 GiftsModel validation failed: price: Cast to Number failed for value "j" (type string) at path "price", discount: Cast to Number failed for value "j" (type string) at path "discount"
+----------------------------
+12.6.2023, 21:49:30 	 GiftsModel validation failed: price: Cast to Number failed for value "j" (type string) at path "price", discount: Cast to Number failed for value "j" (type string) at path "discount"
+----------------------------
+12.6.2023, 21:49:30 	 GiftsModel validation failed: price: Cast to Number failed for value "j" (type string) at path "price", discount: Cast to Number failed for value "j" (type string) at path "discount"
+----------------------------
+12.6.2023, 21:49:33 	 GiftsModel validation failed: price: Cast to Number failed for value "j" (type string) at path "price", discount: Cast to Number failed for value "j" (type string) at path "discount"
+----------------------------
+12.6.2023, 21:49:33 	 GiftsModel validation failed: price: Cast to Number failed for value "j" (type string) at path "price", discount: Cast to Number failed for value "j" (type string) at path "discount"
+----------------------------
+12.6.2023, 21:49:42 	 GiftsModel validation failed: price: Cast to Number failed for value "jkkkk" (type string) at path "price", discount: Cast to Number failed for value "jkkkk" (type string) at path "discount"
+----------------------------
+12.6.2023, 21:49:44 	 GiftsModel validation failed: price: Cast to Number failed for value "jkkkk" (type string) at path "price", discount: Cast to Number failed for value "jkkkk" (type string) at path "discount"
+----------------------------
+12.6.2023, 21:49:44 	 GiftsModel validation failed: price: Cast to Number failed for value "jkkkk" (type string) at path "price", discount: Cast to Number failed for value "jkkkk" (type string) at path "discount"
+----------------------------
+12.6.2023, 21:49:46 	 GiftsModel validation failed: price: Cast to Number failed for value "jkkkk" (type string) at path "price", discount: Cast to Number failed for value "jkkkk" (type string) at path "discount"
+----------------------------
+12.6.2023, 21:49:47 	 GiftsModel validation failed: price: Cast to Number failed for value "jkkkk" (type string) at path "price", discount: Cast to Number failed for value "jkkkk" (type string) at path "discount"
+----------------------------
+12.6.2023, 22:11:17 	 GiftsModel validation failed: price: Cast to Number failed for value "shapiro" (type string) at path "price", discount: Cast to Number failed for value "shapiro" (type string) at path "discount"
+----------------------------
+12.6.2023, 22:11:19 	 GiftsModel validation failed: price: Cast to Number failed for value "shapiro" (type string) at path "price", discount: Cast to Number failed for value "shapiro" (type string) at path "discount"
+----------------------------
+12.6.2023, 22:11:19 	 GiftsModel validation failed: price: Cast to Number failed for value "shapiro" (type string) at path "price", discount: Cast to Number failed for value "shapiro" (type string) at path "discount"
+----------------------------
+12.6.2023, 22:12:10 	 _id 64876df720ed2fd838adeb6b not exist
+----------------------------
+12.6.2023, 22:12:15 	 _id 64876df720ed2fd838adeb6b not exist
+----------------------------
+12.6.2023, 23:46:18 	 GiftsModel validation failed: price: Cast to Number failed for value "ssssssssssssssssssssssssssssssssssssssssssssssssssssss" (type string) at path "price", discount: Cast to Number failed for value "sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss" (type string) at path "discount"
+----------------------------
+12.6.2023, 23:46:19 	 GiftsModel validation failed: price: Cast to Number failed for value "ssssssssssssssssssssssssssssssssssssssssssssssssssssss" (type string) at path "price", discount: Cast to Number failed for value "sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss" (type string) at path "discount"
+----------------------------
+12.6.2023, 23:46:20 	 GiftsModel validation failed: price: Cast to Number failed for value "ssssssssssssssssssssssssssssssssssssssssssssssssssssss" (type string) at path "price", discount: Cast to Number failed for value "sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss" (type string) at path "discount"
+----------------------------
+13.6.2023, 0:00:01 	 GiftsModel validation failed: price: Cast to Number failed for value "the best pen ever!" (type string) at path "price", discount: Cast to Number failed for value "shapiro" (type string) at path "discount"
+----------------------------
+13.6.2023, 0:00:09 	 GiftsModel validation failed: price: Cast to Number failed for value "the best pen ever!" (type string) at path "price", discount: Cast to Number failed for value "shapiro" (type string) at path "discount"
+----------------------------
+13.6.2023, 0:00:11 	 GiftsModel validation failed: price: Cast to Number failed for value "the best pen ever!" (type string) at path "price", discount: Cast to Number failed for value "shapiro" (type string) at path "discount"
+----------------------------
+13.6.2023, 0:00:11 	 GiftsModel validation failed: price: Cast to Number failed for value "the best pen ever!" (type string) at path "price", discount: Cast to Number failed for value "shapiro" (type string) at path "discount"
+----------------------------
+13.6.2023, 0:00:13 	 GiftsModel validation failed: price: Cast to Number failed for value "the best pen ever!" (type string) at path "price", discount: Cast to Number failed for value "shapiro" (type string) at path "discount"
+----------------------------
+13.6.2023, 0:01:14 	 GiftsModel validation failed: price: Cast to Number failed for value "the best pen ever!" (type string) at path "price", discount: Cast to Number failed for value "shapiro" (type string) at path "discount"
+----------------------------

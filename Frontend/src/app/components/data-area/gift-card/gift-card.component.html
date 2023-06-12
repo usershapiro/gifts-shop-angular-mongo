@@ -1,0 +1,10 @@
+
+<div class="card"  >
+    <div class="container">
+      <h4><b>{{gift.giftName}}</b></h4>
+      <p>{{gift.description}}</p>
+      <p>{{gift.price}}</p>
+      <p>{{gift.discount}}</p>
+      <button (click)="deleteMe(gift._id)" (click)="onDelete.emit()" >❌</button>
+    </div>
+  </div>

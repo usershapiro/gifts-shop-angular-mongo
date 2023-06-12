@@ -1,0 +1,35 @@
+select{
+    width: 30vh;
+    height: 20vh;
+    background-color: lightblue;
+    border: cadetblue solid 2px;
+    text-align: center;
+    text-decoration-line:underline;
+    text-emphasis:4px ;
+    font-size: x-large;
+    font:xx-large;
+    color: darkcyan;
+    font-weight: 400;
+    font-style: italic;
+    margin-top: 5%;
+}
+option{
+    background-color: rgb(205, 237, 248);
+    color: darkcyan;
+}
+option :hover{
+    background-color: rgb(60, 96, 107);
+    color: whitesmoke;
+}
+.list{
+    background-color: rgb(90, 150, 150);
+     height: 100vh;
+ 
+}
+.card{
+    display: flex;
+    flex-direction: row;
+    margin-left: 15px;
+    padding-top: 15px;
+    
+}

@@ -1,0 +1,11 @@
+<div class="list">
+<select (change)="displayGifts($event)">
+    <option selected disabled value="">Select Gift</option>
+    <option *ngFor="let t of targets" value={{t._id}}>{{t.type}}</option>
+</select>
+<br>
+<div class="card" >
+    <app-gift-card *ngFor="let g of gifts" [gift]="g" (onDelete)="handleDelete(g._id)" ></app-gift-card>
+</div>
+
+</div>

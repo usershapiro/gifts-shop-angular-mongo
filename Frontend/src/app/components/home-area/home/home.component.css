@@ -1,0 +1,17 @@
+.homeimg{
+    background-image: url("../../../../assets/photo-1552602990-ba760f06432e.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    position: relative;
+    height: 500px;
+}
+.home{
+    background-color: palevioletred;
+}
+h1, h2, h3 {
+    color: rgb(129, 4, 67);
+}
+a{
+    color:aliceblue
+}
